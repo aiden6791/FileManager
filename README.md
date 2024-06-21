@@ -1,1 +1,2 @@
 # FileManager
+ - php ファイルチェックしてくれるもの
